@@ -551,6 +551,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moeda (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3628295744646641453, guid: c011eebd621ac0b44a1edb0975195f62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2938d7b732775140a0c7ae2114e1a17, type: 2}
     - target: {fileID: 3814454827289715931, guid: c011eebd621ac0b44a1edb0975195f62,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1080,6 +1085,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moeda (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3628295744646641453, guid: c011eebd621ac0b44a1edb0975195f62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2938d7b732775140a0c7ae2114e1a17, type: 2}
     - target: {fileID: 3814454827289715931, guid: c011eebd621ac0b44a1edb0975195f62,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1957,6 +1967,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: moeda
       objectReference: {fileID: 0}
+    - target: {fileID: 3628295744646641453, guid: c011eebd621ac0b44a1edb0975195f62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2938d7b732775140a0c7ae2114e1a17, type: 2}
     - target: {fileID: 3814454827289715931, guid: c011eebd621ac0b44a1edb0975195f62,
         type: 3}
       propertyPath: m_LocalPosition.x
