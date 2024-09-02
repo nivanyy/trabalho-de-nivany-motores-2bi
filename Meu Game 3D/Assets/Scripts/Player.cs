@@ -53,7 +53,7 @@ void Update()
 
 
 
-    if (transform.position.y <= -10)
+    if (transform.position.y <= -75)
         {
             //jogador caiu 
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
