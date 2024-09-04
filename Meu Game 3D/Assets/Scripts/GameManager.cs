@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
         if (restantes <= 0)
         {
             //ganhou o jogo
-            Msgvitoria.text = "PARABENSSSSSSSSS!!!!";
+            Msgvitoria.text = "voce conseguiiiuuu!!";
             source.Stop();
             source.PlayOneShot(clipVitoria);
         }
